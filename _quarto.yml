@@ -15,11 +15,11 @@ format:
     css: custom.scss
     #self-contained: true
     grid:
-        sidebar-width: 400px
-        body-width: 650px
+        sidebar-width: 450px
+        body-width: 700px
         #margin-width: 300px
         #gutter-width: 1em
-    fontsize: 1em
+    fontsize: 0.9em
     linestretch: 1.5
     smooth-scroll: true
     linkcolor: "#2E5392"
