@@ -68,6 +68,12 @@ h2, h3, h4, h5, h6 {
     letter-spacing: 1px;
 }
 
+.column-margin,
+.margin-caption,
+aside {
+  font-size: 0.85rem;
+}
+
 a:link {
   text-decoration: true;
   //text-decoration-color: #235440;
