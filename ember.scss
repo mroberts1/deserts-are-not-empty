@@ -67,6 +67,12 @@ h2, h3, h4, h5, h6 {
     letter-spacing: 1px;
 }
 
+.column-margin p,
+.column-margin li,
+.column-margin {
+  font-size: 0.875rem;
+}
+
 a:link {
   text-decoration: true;
   //text-decoration-color: #235440;
