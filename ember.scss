@@ -43,9 +43,8 @@ $font-family-serif: "Gentium Plus", "Newsreader", "Literata", "Piazzolla", serif
 /*-- scss:rules --*/
 
 // litera is serif by default: revert to san-serif
-body, p, li {
+p, li {
   font-family: $font-family-sans-serif;
-  font-size: 1.125rem;
 }
 
 h1 {
