@@ -44,7 +44,7 @@ $font-family-serif: "Gentium Plus", "Newsreader", "Literata", "Piazzolla", serif
 
 // litera is serif by default: revert to san-serif
 p, li {
-  font-family: $font-family-sans-serif;
+  font-family: $font-family-serif;
 }
 
 h1 {
