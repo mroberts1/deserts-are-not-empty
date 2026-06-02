@@ -3,7 +3,7 @@ title: "Sirāt"
 subtitle: "Deserts Are Not Empty"
 ---
 
-![](img/sirat.webp)
+![](img/sirat.png)
 
 ::: {.column-margin}
 Paper proposal for Rethinking Transnational Cinema(s)  
