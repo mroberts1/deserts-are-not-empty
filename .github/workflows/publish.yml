@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install Quarto
+      - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render
